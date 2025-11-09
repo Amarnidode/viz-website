@@ -1,6 +1,16 @@
+#home
+This project was b<img width="1899" height="853" alt="Screenshot 2025-11-09 182323" src="https://github.com/user-attachments/assets/d3c7bf57-e23d-4f5f-9630-5633bae64757" />
+#contact us
+<img width="1897" height="865" alt="Screenshot 2025-11-09 182423" src="https://github.com/user-attachments/assets/79236f3a-f000-40cd-b5d5-a960c3363472" />
+
+#about us
+
+<img width="1901" height="858" alt="Screenshot 2025-11-09 182505" src="https://github.com/user-attachments/assets/5b68fb2b-5327-40e2-8c50-12fa387ac907" />
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+ootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
